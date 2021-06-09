@@ -1,3 +1,3 @@
 # Tabs-hooks
 Created with CodeSandbox
-# tabs-with-hooks.netlify.app
+# https://tabs-with-hooks.netlify.app/
